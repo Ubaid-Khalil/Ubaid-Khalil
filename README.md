@@ -37,7 +37,6 @@
 * Applovin AdMob Virtuosity
 
 🧰 Developer's Toolkit
-* Android Studio 🧩
 * Git, GitHub, GitLab 🗂️
 * Slack, Trello, Jira 🤝
 * Postman 📮
